@@ -16,3 +16,6 @@ vite比CRA创建跟快，重新构建速度也更快，所以vite是比CRA跟好
 # 我事先把文件夹创建好了，在文件夹内调用的vite，所以传入 . 而不是项目的名字
 $ bun create vite . --template react
 ```
+
+## 笔记
+https://www.notion.so/devinjohw/140c0930c2a380448ed7c13631b320e9
