@@ -5,6 +5,7 @@ import PageOne from "../pages/other/page-one";
 import Home from "../pages/home";
 import PageTwo from "../pages/other/page-two";
 import PageThree from "../pages/other/page-three";
+import Mall from "../pages/mall";
 
 
 const router = createBrowserRouter([
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
       {
         path: 'user',
         Component: User
+      },
+      {
+        path: 'mall',
+        Component: Mall
       },
       {
         path: 'other',
